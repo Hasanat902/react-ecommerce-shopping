@@ -9,3 +9,10 @@
     gap: 45px;
     margin: 100px 100px;
 }
+
+.cart-container{
+    width: 264px;
+    height: 744px;
+    padding: 20px;
+    background: rgba(255, 153, 0, 0.3);
+}

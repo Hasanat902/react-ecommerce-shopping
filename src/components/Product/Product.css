@@ -35,4 +35,11 @@
     background: #FFE0B3;
     border: 0;
     border-radius: 0px 0px 8px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart-btn .btn-text{
+    margin-right: 5px;
 }
